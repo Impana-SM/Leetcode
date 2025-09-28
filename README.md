@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Impana-SM/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Impana-SM/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Impana-SM/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Impana-SM/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Impana-SM/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Impana-SM/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Impana-SM/Leetcode/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/Impana-SM/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Impana-SM/Leetcode/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Impana-SM/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Impana-SM/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
