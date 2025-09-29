@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Impana-SM/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Impana-SM/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Impana-SM/Leetcode/tree/master/0229-majority-element-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Impana-SM/Leetcode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Impana-SM/Leetcode/tree/master/0229-majority-element-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -81,4 +83,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Impana-SM/Leetcode/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
