@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Impana-SM/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Impana-SM/Leetcode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Impana-SM/Leetcode/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/Impana-SM/Leetcode/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Impana-SM/Leetcode/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/Impana-SM/Leetcode/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
