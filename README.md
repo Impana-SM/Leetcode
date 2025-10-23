@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Impana-SM/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Impana-SM/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Impana-SM/Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Impana-SM/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Union Find
 |  |
 | ------- |
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Impana-SM/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Impana-SM/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Impana-SM/Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Impana-SM/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Impana-SM/Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Impana-SM/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Impana-SM/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Impana-SM/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Impana-SM/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Impana-SM/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Impana-SM/Leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Impana-SM/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -171,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Impana-SM/Leetcode/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Impana-SM/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Impana-SM/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
