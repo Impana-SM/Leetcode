@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Impana-SM/Leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/Impana-SM/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Impana-SM/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Impana-SM/Leetcode/tree/master/2050-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Impana-SM/Leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Impana-SM/Leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
