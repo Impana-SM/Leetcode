@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Impana-SM/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Impana-SM/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Impana-SM/Leetcode/tree/master/0792-binary-search) |
+| [0966-binary-subarrays-with-sum](https://github.com/Impana-SM/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Impana-SM/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Impana-SM/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Impana-SM/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Impana-SM/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Impana-SM/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0966-binary-subarrays-with-sum](https://github.com/Impana-SM/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Impana-SM/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Union Find
 |  |
@@ -161,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Impana-SM/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Impana-SM/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/Impana-SM/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Impana-SM/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
 |  |
