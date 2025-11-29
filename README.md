@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Impana-SM/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Impana-SM/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Impana-SM/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/Impana-SM/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Impana-SM/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Impana-SM/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Impana-SM/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Impana-SM/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Impana-SM/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Impana-SM/Leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Impana-SM/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Impana-SM/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Impana-SM/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Impana-SM/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Impana-SM/Leetcode/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Impana-SM/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Impana-SM/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
